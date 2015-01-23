@@ -1,0 +1,14 @@
+; Comment line
+;[section]
+;name = value # Another comment
+;flag # implicit value for bool is true
+
+;Age = 198
+;Cats = [ "Cauchy", "Plato" ]
+;Pi = 3.14
+;Perfection = [ 6, 28, 496, 8128 ]
+;DOB = 1987-07-05T05:45:00Z
+
+[Server]
+Url = "http://www.golang.com"
+IntervalSeconds = 3
